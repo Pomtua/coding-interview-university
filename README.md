@@ -24,16 +24,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 ### The Study Plan
 
 - [What is it?](#what-is-it)
-- [How to use it](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [A Note About Video Resources](#a-note-about-video-resources)
-- [Choose a Programming Language](#choose-a-programming-language)
-- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
-- [Interview Prep Books](#interview-prep-books)
-- [Don't Make My Mistakes](#dont-make-my-mistakes)
-- [What you Won't See Covered](#what-you-wont-see-covered)
 - [The Daily Plan](#the-daily-plan)
-- [Coding Question Practice](#coding-question-practice)
 - [Coding Problems](#coding-problems)
 
 ### Topics of Study
@@ -206,14 +197,6 @@ There are many resources for this, listed below. Keep going.
 There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
 without lyrics and you'll be able to focus pretty well.
 
-## What you won't see covered
-
-These are prevalent technologies but not part of this study plan:
-
-- Javascript
-- HTML, CSS, and other front-end technologies
-- SQL
-
 ## The Daily Plan
 
 This course goes over a lot of subjects. Each will probably take you a few days, or maybe even a week or more. It depends on your schedule.
@@ -227,20 +210,6 @@ You can see my code here:
  - [Python](https://github.com/jwasham/practice-python)
 
 You don't need to memorize every algorithm. You just need to be able to understand it enough to be able to write your own implementation.
-
-## Coding Question Practice
-
-    Why is this here? I'm not ready to interview.
-
-[Then go back and read this.](#3-do-coding-interview-questions-while-youre-learning)
-
-Why you need to practice doing programming problems:
-- Problem recognition, and where the right data structures and algorithms fit in
-- Gathering requirements for the problem
-- Talking your way through the problem like you will in the interview
-- Coding on a whiteboard or paper, not a computer
-- Coming up with time and space complexity for your solutions (see Big-O below)
-- Testing your solutions
 
 There is a great intro for methodical, communicative problem-solving in an interview. You'll get this from the programming
 interview books, too, but I found this outstanding:
