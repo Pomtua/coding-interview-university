@@ -620,8 +620,9 @@ Graphs can be used to represent many problems in computer science, so this secti
     - Familiarize yourself with each representation and its pros & cons
     - BFS and DFS - know their computational complexity, their trade-offs, and how to implement them in real code
     - When asked a question, look for a graph-based solution first, then move on if none
-    - [x] [[Review] Shortest Path Algorithms (playlist) in 16 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO-Y-H3xIC9DGSfVYJng9Yw)
-    - [x] [[Review] Minimum Spanning Trees (playlist) in 4 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZObEi3Hf6lmyW-CBfs7nkOV)
+    - [x] [Graph theory](https://www.youtube.com/watch?v=LFKZLXVO-Dg&list=PLpXOY-RxVRTPPVLBP6-sz6CMWxhtrI-v_)
+    - [ ] [How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)
+    - [ ] [How Do You Calculate a Minimum Spanning Tree?](https://www.youtube.com/watch?v=Yldkh0aOEcg)
 
 
 - I'll implement:
