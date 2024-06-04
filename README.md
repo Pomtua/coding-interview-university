@@ -621,8 +621,8 @@ Graphs can be used to represent many problems in computer science, so this secti
     - BFS and DFS - know their computational complexity, their trade-offs, and how to implement them in real code
     - When asked a question, look for a graph-based solution first, then move on if none
     - [x] [Graph theory](https://www.youtube.com/watch?v=LFKZLXVO-Dg&list=PLpXOY-RxVRTPPVLBP6-sz6CMWxhtrI-v_)
-    - [ ] [How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)
-    - [ ] [How Do You Calculate a Minimum Spanning Tree?](https://www.youtube.com/watch?v=Yldkh0aOEcg)
+    - [x] [How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)
+    - [x] [How Do You Calculate a Minimum Spanning Tree?](https://www.youtube.com/watch?v=Yldkh0aOEcg)
 
 
 - I'll implement:
@@ -632,8 +632,8 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [x] DFS with adjacency matrix (iterative with stack)
     - [x] BFS with adjacency list
     - [x] BFS with adjacency matrix
-    - [ ] single-source shortest path (Dijkstra)
-    - [ ] minimum spanning tree
+    - [x] single-source shortest path (Dijkstra)
+    - [x] minimum spanning tree
     - DFS-based algorithms (see Aduni videos above):
         - [ ] check for a cycle (needed for topological sort, since we'll check for the cycle before starting)
         - [ ] topological sort
